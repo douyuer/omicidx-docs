@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: banana
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: -5728686177044832811, guid: b1f24b3bc2e2f1d4b858657ad5c115a0,
+        type: 3}
+    - time: 0.04
+      value: {fileID: -5786164333596270976, guid: b1f24b3bc2e2f1d4b858657ad5c115a0,
+        type: 3}
+    - time: 0.08
+      value: {fileID: 5546440197654754675, guid: b1f24b3bc2e2f1d4b858657ad5c115a0,
+        type: 3}
+    - time: 0.12
+      value: {fileID: -716424211456008518, guid: b1f24b3bc2e2f1d4b858657ad5c115a0,
+        type: 3}
+    - time: 0.16
+      value: {fileID: -5292413800997781641, guid: b1f24b3bc2e2f1d4b858657ad5c115a0,
+        type: 3}
+    - time: 0.2
+      value: {fileID: -7253148436187668049, guid: b1f24b3bc2e2f1d4b858657ad5c115a0,
+        type: 3}
+    - time: 0.24
+      value: {fileID: 8575041284972176386, guid: b1f24b3bc2e2f1d4b858657ad5c115a0,
+        type: 3}
+    - time: 0.28
+      value: {fileID: 3604655966176598788, guid: b1f24b3bc2e2f1d4b858657ad5c115a0,
+        type: 3}
+    - time: 0.32
+      value: {fileID: -6630629338061711003, guid: b1f24b3bc2e2f1d4b858657ad5c115a0,
+        type: 3}
+    - time: 0.36
+      value: {fileID: -8491821694155768140, guid: b1f24b3bc2e2f1d4b858657ad5c115a0,
+        type: 3}
+    - time: 0.4
+      value: {fileID: 8303107455315256833, guid: b1f24b3bc2e2f1d4b858657ad5c115a0,
+        type: 3}
+    - time: 0.44
+      value: {fileID: -7266015010218627371, guid: b1f24b3bc2e2f1d4b858657ad5c115a0,
+        type: 3}
+    - time: 0.48
+      value: {fileID: -5455066603935629110, guid: b1f24b3bc2e2f1d4b858657ad5c115a0,
+        type: 3}
+    - time: 0.52
+      value: {fileID: -13471837661201325
