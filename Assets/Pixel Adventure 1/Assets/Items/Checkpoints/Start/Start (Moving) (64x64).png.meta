@@ -1,0 +1,89 @@
+fileFormatVersion: 2
+guid: 953d2013647e1fb479bf559fccb58994
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4612172629948362417
+    second: Start (Moving) (64x64)_0
+  - first:
+      213: 5719465518792859888
+    second: Start (Moving) (64x64)_1
+  - first:
+      213: 8098369405238339434
+    second: Start (Moving) (64x64)_2
+  - first:
+      213: -2185004221920062792
+    second: Start (Moving) (64x64)_3
+  - first:
+      213: 1959960051128207467
+    second: Start (Moving) (64x64)_4
+  - first:
+      213: 3185903466064448317
+    second: Start (Moving) (64x64)_5
+  - first:
+      213: -556790594751862936
+    second: Start (Moving) (64x64)_6
+  - first:
+      213: -979405774348968759
+    second: Start (Moving) (64x64)_7
+  - first:
+      213: -1941286421690932728
+    second: Start (Moving) (64x64)_8
+  - first:
+      213: -3085381186346249065
+    second: Start (Moving) (64x64)_9
+  - first:
+      213: 4273622735083888487
+    second: Start (Moving) (64x64)_10
+  - first:
+      213: -2053020197276343620
+    second: Start (Moving) (64x64)_11
+  - first:
+      213: 2059557743127933064
+    second: Start (Moving) (64x64)_12
+  - first:
+      213: 6584106804986760886
+    second: Start (Moving) (64x64)_13
+  - first:
+      213: -8264053262935308319
+    second: Start (Moving) (64x64)_14
+  - first:
+      213: 6183351285161404023
+    second: Start (Moving) (64x64)_15
+  - first:
+      213: 7763743175354702852
+    second: Start (Moving) (64x64)_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+  
