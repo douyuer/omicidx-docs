@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 32726eef68207514bbede9c6509379b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4184586705055241392
+    second: Checkpoint (Flag Out) (64x64)_0
+  - first:
+      213: -8500414901909799154
+    second: Checkpoint (Flag Out) (64x64)_1
+  - first:
+      213: 6600226083578749612
+    second: Checkpoint (Flag Out) (64x64)_2
+  - first:
+      213: -1756668925505998823
+    second: Checkpoint (Flag Out) (64x64)_3
+  - first:
+      213: -6967806255545003447
+    second: Checkpoint (Flag Out) (64x64)_4
+  - first:
+      213: 7127308139407018228
+    second: Checkpoint (Flag Out) (64x64)_5
+  - first:
+      213: 7200103426585487352
+    second: Checkpoint (Flag Out) (64x64)_6
+  - first:
+      213: -541522737943073818
+    second: Checkpoint (Flag Out) (64x64)_7
+  - first:
+      213: -6807852688622114252
+    second: Checkpoint (Flag Out) (64x64)_8
+  - first:
+      213: 6265099083614238658
+    second: Checkpoint (Flag Out) (64x64)_9
+  - first:
+      213: 5394087461009959248
+    second: Checkpoint (Flag Out) (64x64)_10
+  - first:
+      213: -5774344071365144885
+    second: Checkpoint (Flag Out) (64x64)_11
+  - first:
+      213: -3028704889039134381
+    second: Checkpoint (Flag Out) (64x64)_12
+  - first:
+      213: 2155129991389349994
+    second: Checkpoint (Flag Out) (64x64)_13
+  - first:
+      213: -776465599013193395
+    second: Checkpoint (Flag Out) (64x64)_14
+  - first:
+      213: -4370090337520481786
+    second: Checkpoint (Flag Out) (64x64)_15
+  - first:
+      213: -1711207211420887195
+    second: Checkpoint (Flag Out) (64x64)_16
+  - first:
+      213: -5278763548615814542
+    second: Checkpoint (Flag Out) (64x64)_17
+  - first:
+      213: -8342746687626132780
+    second: Checkpoint (Flag Out) (64x64)_18
+  - first:
+      213: -8069447969666600582
+    second: Checkpoint (Flag Out) (64x64)_19
+  - first:
+      213: -4297091758800071936
+    second: Checkpoint (Flag Out) (64x64)_20
+  - first:
+      213: -2206044501344538863
+    second: Checkpoint (Flag Out) (64x64)_21
+  - first:
+      213: -991047635057653830
+    second: Checkpoint (Flag Out) (64x64)_22
+  - first:
+      213: -5557025883363775598
+    second: Checkpoint (Flag Out) (64x64)_23
+  - first:
+      213: 5095064189951559428
+    second: Checkpoint (Flag Out) (64x64)_24
+  - first:
+      213: 6851063822677676398
+    second: Checkpoint (Flag Out) (64x64)_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Checkpoint (Flag Out) (64x64)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df074e345c862241a1717906507867e
+      internalID: -41845867050552
