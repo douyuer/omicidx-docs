@@ -1,58 +1,59 @@
+
 fileFormatVersion: 2
-guid: 953d2013647e1fb479bf559fccb58994
+guid: 1ddc9afd21fec77489b1248d18f31b68
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4612172629948362417
-    second: Start (Moving) (64x64)_0
+      213: 7293598183456022363
+    second: Apple_0
   - first:
-      213: 5719465518792859888
-    second: Start (Moving) (64x64)_1
+      213: 3211865404380153573
+    second: Apple_1
   - first:
-      213: 8098369405238339434
-    second: Start (Moving) (64x64)_2
+      213: 4808522734667448011
+    second: Apple_2
   - first:
-      213: -2185004221920062792
-    second: Start (Moving) (64x64)_3
+      213: -8577097333041121892
+    second: Apple_3
   - first:
-      213: 1959960051128207467
-    second: Start (Moving) (64x64)_4
+      213: 1419576285154770477
+    second: Apple_4
   - first:
-      213: 3185903466064448317
-    second: Start (Moving) (64x64)_5
+      213: -7706788487438311687
+    second: Apple_5
   - first:
-      213: -556790594751862936
-    second: Start (Moving) (64x64)_6
+      213: 8638710384840876012
+    second: Apple_6
   - first:
-      213: -979405774348968759
-    second: Start (Moving) (64x64)_7
+      213: -4689406079702324653
+    second: Apple_7
   - first:
-      213: -1941286421690932728
-    second: Start (Moving) (64x64)_8
+      213: -4804661220611782958
+    second: Apple_8
   - first:
-      213: -3085381186346249065
-    second: Start (Moving) (64x64)_9
+      213: 542562350195365616
+    second: Apple_9
   - first:
-      213: 4273622735083888487
-    second: Start (Moving) (64x64)_10
+      213: 1535906679059638393
+    second: Apple_10
   - first:
-      213: -2053020197276343620
-    second: Start (Moving) (64x64)_11
+      213: -6207369124864647917
+    second: Apple_11
   - first:
-      213: 2059557743127933064
-    second: Start (Moving) (64x64)_12
+      213: 7209791866757004406
+    second: Apple_12
   - first:
-      213: 6584106804986760886
-    second: Start (Moving) (64x64)_13
+      213: -1462588236305530756
+    second: Apple_13
   - first:
-      213: -8264053262935308319
-    second: Start (Moving) (64x64)_14
+      213: 4023135878370671054
+    second: Apple_14
   - first:
-      213: 6183351285161404023
-    second: Start (Moving) (64x64)_15
+      213: -337911150936919937
+    second: Apple_15
   - first:
-      213: 7763743175354702852
-    second: Start (Moving) (64x64)_16
+      213: 9139289913481491577
+    second: Apple_16
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -137,13 +138,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_0
+      name: Apple_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,20 +152,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec2e8b0681f3c9641b31856e975fda00
-      internalID: 4612172629948362417
+      spriteID: b8a08d8fa27377c4a953e5166a4e378a
+      internalID: 7293598183456022363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_1
+      name: Apple_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02a7fa3ffeb30a4199e0351b4344f8f
+      internalID: 3211865404380153573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_2
       rect:
         serializedVersion: 2
         x: 64
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,20 +194,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 853284e5cc0abbd438bbf20458fc0653
-      internalID: 5719465518792859888
+      spriteID: 06b3375f0ba8c0142b7aad447dbbbae3
+      internalID: 4808522734667448011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_2
+      name: Apple_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960f1f000bcb718488f0325a35b894a1
+      internalID: -8577097333041121892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_4
       rect:
         serializedVersion: 2
         x: 128
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +236,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 841d4bb12d3ba894cb9242ca01bc5e35
-      internalID: 8098369405238339434
+      spriteID: 37de86aa0dcf0a948ae6dd77bbbd73d9
+      internalID: 1419576285154770477
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_3
+      name: Apple_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37705b0046b0cdb4f8be3391619ab868
+      internalID: -7706788487438311687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_6
       rect:
         serializedVersion: 2
         x: 192
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,20 +278,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96c72edce7406f940aa04090bcdf0f73
-      internalID: -2185004221920062792
+      spriteID: 6944f29b9357660429c0802790c65fcb
+      internalID: 8638710384840876012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_4
+      name: Apple_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3606c8283f75c0546bb0e1041976d1d6
+      internalID: -4689406079702324653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_8
       rect:
         serializedVersion: 2
         x: 256
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,20 +320,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2983af6cf7d672047af207dfa25b0ab6
-      internalID: 1959960051128207467
+      spriteID: 1addb6c313dfe2f4a99b92c0a7e0b5e6
+      internalID: -4804661220611782958
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_5
+      name: Apple_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945871b795429e44886b112764cf3d89
+      internalID: 542562350195365616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_10
       rect:
         serializedVersion: 2
         x: 320
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,20 +362,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88fd4f9be89666348b72bb2956eebe3c
-      internalID: 3185903466064448317
+      spriteID: 454305dfe8422c24dbf414b73bb7af7c
+      internalID: 1535906679059638393
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_6
+      name: Apple_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae896e063923c24fa64acad79e2d19b
+      internalID: -6207369124864647917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_12
       rect:
         serializedVersion: 2
         x: 384
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,20 +404,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d551c0cf8da66f34b9e351139f6a320e
-      internalID: -556790594751862936
+      spriteID: 6f6686c46dcdd1245804c5903fa45daa
+      internalID: 7209791866757004406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_7
+      name: Apple_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d678a7f900dbf4dab4f5f0eed8a0d9
+      internalID: -1462588236305530756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_14
       rect:
         serializedVersion: 2
         x: 448
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -298,20 +446,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ceb24d49197871c47bb0b09e182430a8
-      internalID: -979405774348968759
+      spriteID: 0455f04e92d89db4cbe14eeed5e6a856
+      internalID: 4023135878370671054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_8
+      name: Apple_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ed5cdde0c68304fa1241c934611c5d
+      internalID: -337911150936919937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_16
       rect:
         serializedVersion: 2
         x: 512
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -319,176 +488,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 150036806a79ecb449d5b7ea177bc0df
-      internalID: -1941286421690932728
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_9
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ecc1a9ab9604134d90c5063c0cd9da5
-      internalID: -3085381186346249065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_10
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 98700e32a71a86646a73edd20d719c44
-      internalID: 4273622735083888487
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_11
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ecbb015a95b2bd3459e1865540e4cf7d
-      internalID: -2053020197276343620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_12
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f609ec71a6aca64280c2e950b2bfd49
-      internalID: 2059557743127933064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_13
-      rect:
-        serializedVersion: 2
-        x: 832
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 63202a6e71b28354f8d284b38b623dea
-      internalID: 6584106804986760886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_14
-      rect:
-        serializedVersion: 2
-        x: 896
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f88e7948a6add024a82b5021426a7754
-      internalID: -8264053262935308319
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_15
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ae718110d36b8d345b9ba73a4cecac3f
-      internalID: 6183351285161404023
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_16
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 944b81e805b48f2458a68148e4c00ccd
-      internalID: 7763743175354702852
+      spriteID: ab2a044731e611b40bfe5447aa3bc978
+      internalID: 9139289913481491577
       vertices: []
       indices: 
       edges: []

@@ -1,58 +1,59 @@
+
 fileFormatVersion: 2
-guid: 953d2013647e1fb479bf559fccb58994
+guid: b1f24b3bc2e2f1d4b858657ad5c115a0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4612172629948362417
-    second: Start (Moving) (64x64)_0
+      213: -5728686177044832811
+    second: Bananas_0
   - first:
-      213: 5719465518792859888
-    second: Start (Moving) (64x64)_1
+      213: -5786164333596270976
+    second: Bananas_1
   - first:
-      213: 8098369405238339434
-    second: Start (Moving) (64x64)_2
+      213: 5546440197654754675
+    second: Bananas_2
   - first:
-      213: -2185004221920062792
-    second: Start (Moving) (64x64)_3
+      213: -716424211456008518
+    second: Bananas_3
   - first:
-      213: 1959960051128207467
-    second: Start (Moving) (64x64)_4
+      213: -5292413800997781641
+    second: Bananas_4
   - first:
-      213: 3185903466064448317
-    second: Start (Moving) (64x64)_5
+      213: -7253148436187668049
+    second: Bananas_5
   - first:
-      213: -556790594751862936
-    second: Start (Moving) (64x64)_6
+      213: 8575041284972176386
+    second: Bananas_6
   - first:
-      213: -979405774348968759
-    second: Start (Moving) (64x64)_7
+      213: 3604655966176598788
+    second: Bananas_7
   - first:
-      213: -1941286421690932728
-    second: Start (Moving) (64x64)_8
+      213: -6630629338061711003
+    second: Bananas_8
   - first:
-      213: -3085381186346249065
-    second: Start (Moving) (64x64)_9
+      213: -8491821694155768140
+    second: Bananas_9
   - first:
-      213: 4273622735083888487
-    second: Start (Moving) (64x64)_10
+      213: 8303107455315256833
+    second: Bananas_10
   - first:
-      213: -2053020197276343620
-    second: Start (Moving) (64x64)_11
+      213: -7266015010218627371
+    second: Bananas_11
   - first:
-      213: 2059557743127933064
-    second: Start (Moving) (64x64)_12
+      213: -5455066603935629110
+    second: Bananas_12
   - first:
-      213: 6584106804986760886
-    second: Start (Moving) (64x64)_13
+      213: -1347183766120132532
+    second: Bananas_13
   - first:
-      213: -8264053262935308319
-    second: Start (Moving) (64x64)_14
+      213: 3310116166248368309
+    second: Bananas_14
   - first:
-      213: 6183351285161404023
-    second: Start (Moving) (64x64)_15
+      213: 7601917565207802943
+    second: Bananas_15
   - first:
-      213: 7763743175354702852
-    second: Start (Moving) (64x64)_16
+      213: -8288679156529735154
+    second: Bananas_16
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -137,13 +138,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_0
+      name: Bananas_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,20 +152,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec2e8b0681f3c9641b31856e975fda00
-      internalID: 4612172629948362417
+      spriteID: 6ca23518b492cf744a336833121ee22c
+      internalID: -5728686177044832811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_1
+      name: Bananas_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73680ae4d6de91448999314e00c6798d
+      internalID: -5786164333596270976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bananas_2
       rect:
         serializedVersion: 2
         x: 64
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,20 +194,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 853284e5cc0abbd438bbf20458fc0653
-      internalID: 5719465518792859888
+      spriteID: 96ca4fcac6d13b34fb8a70f1bb5f1041
+      internalID: 5546440197654754675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_2
+      name: Bananas_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cdb555fdf0bbc419fddd3d4777ef98
+      internalID: -716424211456008518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bananas_4
       rect:
         serializedVersion: 2
         x: 128
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +236,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 841d4bb12d3ba894cb9242ca01bc5e35
-      internalID: 8098369405238339434
+      spriteID: 0b429e257e0c0bf44b14a4748639d562
+      internalID: -5292413800997781641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_3
+      name: Bananas_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22e41c025853bf48ae24fc1797dd514
+      internalID: -7253148436187668049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bananas_6
       rect:
         serializedVersion: 2
         x: 192
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,20 +278,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 96c72edce7406f940aa04090bcdf0f73
-      internalID: -2185004221920062792
+      spriteID: f504a9a73fc426a439f26a4dc407e100
+      internalID: 8575041284972176386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_4
+      name: Bananas_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0144ab7eab88db4e887af2a9a82dacd
+      internalID: 3604655966176598788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bananas_8
       rect:
         serializedVersion: 2
         x: 256
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,20 +320,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2983af6cf7d672047af207dfa25b0ab6
-      internalID: 1959960051128207467
+      spriteID: 9a29bdd66638a744b8967d48a8664a72
+      internalID: -6630629338061711003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_5
+      name: Bananas_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5768a9950ba56094f86a82b4bd38823a
+      internalID: -8491821694155768140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bananas_10
       rect:
         serializedVersion: 2
         x: 320
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,20 +362,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88fd4f9be89666348b72bb2956eebe3c
-      internalID: 3185903466064448317
+      spriteID: 0a64a01fc99b4384d9119ed9cc2e56d9
+      internalID: 8303107455315256833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_6
+      name: Bananas_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6631b85380068847b5b047b88fc1a8b
+      internalID: -7266015010218627371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bananas_12
       rect:
         serializedVersion: 2
         x: 384
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,235 +404,44 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d551c0cf8da66f34b9e351139f6a320e
-      internalID: -556790594751862936
+      spriteID: 715f91e4dbbbcac4c8496a1396459f29
+      internalID: -5455066603935629110
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Start (Moving) (64x64)_7
+      name: Bananas_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7664d443bb64e46bc62bcd30e9b676
+      internalID: -1347183766120132532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bananas_14
       rect:
         serializedVersion: 2
         x: 448
         y: 0
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ceb24d49197871c47bb0b09e182430a8
-      internalID: -979405774348968759
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_8
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 150036806a79ecb449d5b7ea177bc0df
-      internalID: -1941286421690932728
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_9
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ecc1a9ab9604134d90c5063c0cd9da5
-      internalID: -3085381186346249065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_10
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 98700e32a71a86646a73edd20d719c44
-      internalID: 4273622735083888487
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_11
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ecbb015a95b2bd3459e1865540e4cf7d
-      internalID: -2053020197276343620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_12
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f609ec71a6aca64280c2e950b2bfd49
-      internalID: 2059557743127933064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_13
-      rect:
-        serializedVersion: 2
-        x: 832
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 63202a6e71b28354f8d284b38b623dea
-      internalID: 6584106804986760886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_14
-      rect:
-        serializedVersion: 2
-        x: 896
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f88e7948a6add024a82b5021426a7754
-      internalID: -8264053262935308319
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_15
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ae718110d36b8d345b9ba73a4cecac3f
-      internalID: 6183351285161404023
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Start (Moving) (64x64)_16
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 944b81e805b48f2458a68148e4c00ccd
-      internalID: 7763743175354702852
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-  spritePackingTag: 
-  pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
