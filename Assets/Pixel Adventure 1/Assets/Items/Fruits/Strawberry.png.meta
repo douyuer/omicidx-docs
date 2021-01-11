@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: a2c110585eb710b408972fbc3b96136d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1775669009216684005
+    second: Strawberry_0
+  - first:
+      213: -32040429760078815
+    second: Strawberry_1
+  - first:
+      213: -7106730570939000684
+    second: Strawberry_2
+  - first:
+      213: 4518513080991243510
+    second: Strawberry_3
+  - first:
+      213: 901954246582174200
+    second: Strawberry_4
+  - first:
+      213: 825325050284003712
+    second: Strawberry_5
+  - first:
+      213: -5158240598457465908
+    second: Strawberry_6
+  - first:
+      213: 2009151386410624793
+    second: Strawberry_7
+  - first:
+      213: -8828998067812341462
+    second: Strawberry_8
+  - first:
+      213: 7853139244501102106
+    second: Strawberry_9
+  - first:
+      213: 7386868840556686860
+    second: Strawberry_10
+  - first:
+      213: 9150055279739663228
+    second: Strawberry_11
+  - first:
+      213: 8026213463552293463
+    second: Strawberry_12
+  - first:
+      213: 6850229642150134582
+    second: Strawberry_13
+  - first:
+      213: -7542899124980697566
+    second: Strawberry_14
+  - first:
+      213: -8532893379546982827
+    second: Strawberry_15
+  - first:
+      213: 1433410794814771726
+    second: Strawberry_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    
