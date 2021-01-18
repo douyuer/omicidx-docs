@@ -1,43 +1,26 @@
+
 fileFormatVersion: 2
-guid: 97d5ce53f3ac76e4888319c6a53c7ff3
+guid: 4099f676255555240b5240f897805dce
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7166236263522030466
-    second: Run (32x32)_0
+      213: -9101230857065804138
+    second: Double Jump (32x32)_0
   - first:
-      213: 2470319409956435798
-    second: Run (32x32)_1
+      213: -6204479477933590408
+    second: Double Jump (32x32)_1
   - first:
-      213: -4540918584354326388
-    second: Run (32x32)_2
+      213: 7040038629683462113
+    second: Double Jump (32x32)_2
   - first:
-      213: -4455822056875728695
-    second: Run (32x32)_3
+      213: 781615245368611544
+    second: Double Jump (32x32)_3
   - first:
-      213: -5364790588639958657
-    second: Run (32x32)_4
+      213: -3939753913355333839
+    second: Double Jump (32x32)_4
   - first:
-      213: -1512656188830553638
-    second: Run (32x32)_5
-  - first:
-      213: -2754230144694611447
-    second: Run (32x32)_6
-  - first:
-      213: -2419971920513260168
-    second: Run (32x32)_7
-  - first:
-      213: 1843850012483549754
-    second: Run (32x32)_8
-  - first:
-      213: 241620830004830169
-    second: Run (32x32)_9
-  - first:
-      213: -362971539341918764
-    second: Run (32x32)_10
-  - first:
-      213: 2178398316516280758
-    second: Run (32x32)_11
+      213: 6301718139250434432
+    second: Double Jump (32x32)_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -122,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Run (32x32)_0
+      name: Double Jump (32x32)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -136,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fb45ad6bc8982941a17952a50b63619
-      internalID: 7166236263522030466
+      spriteID: 186a1066cebb26a4080b1dee4987e1ef
+      internalID: -9101230857065804138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run (32x32)_1
+      name: Double Jump (32x32)_1
       rect:
         serializedVersion: 2
         x: 32
@@ -157,14 +140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb5e5ee4d6bea5e4caf1f40ce19219a6
-      internalID: 2470319409956435798
+      spriteID: 14ca7b2721c7ddb45aaa8b4c08b77336
+      internalID: -6204479477933590408
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run (32x32)_2
+      name: Double Jump (32x32)_2
       rect:
         serializedVersion: 2
         x: 64
@@ -178,14 +161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4dd2798f18527844bc78d8e1adc6b16
-      internalID: -4540918584354326388
+      spriteID: 37a1d8e673892e049bdc53e93eef5630
+      internalID: 7040038629683462113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run (32x32)_3
+      name: Double Jump (32x32)_3
       rect:
         serializedVersion: 2
         x: 96
@@ -199,14 +182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63217c56eea7ace48be19eef4ec0a26e
-      internalID: -4455822056875728695
+      spriteID: 7b2768d00d49a5346b5d6274c943f0ec
+      internalID: 781615245368611544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run (32x32)_4
+      name: Double Jump (32x32)_4
       rect:
         serializedVersion: 2
         x: 128
@@ -220,14 +203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83b4c187fec3b78469aa17706c0b0c70
-      internalID: -5364790588639958657
+      spriteID: 3f09e13b1f198094589cb06cde993cb3
+      internalID: -3939753913355333839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run (32x32)_5
+      name: Double Jump (32x32)_5
       rect:
         serializedVersion: 2
         x: 160
@@ -241,134 +224,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9a62dd268913a242ac0af25c3a1e9aa
-      internalID: -1512656188830553638
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run (32x32)_6
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c64834d9f040ac944b3bef094a8da580
-      internalID: -2754230144694611447
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run (32x32)_7
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f2d3f02228a7204da6b547ecbb857ed
-      internalID: -2419971920513260168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run (32x32)_8
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 253ed91402a493f478b3e9b77c6b6250
-      internalID: 1843850012483549754
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run (32x32)_9
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4c26ffd3cf77583449ad5a2f16d3aaa0
-      internalID: 241620830004830169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run (32x32)_10
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ee80e1206f475c1428ac3fdfd1b0e955
-      internalID: -362971539341918764
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run (32x32)_11
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d32009b5b507154e8159549769271cc
-      internalID: 2178398316516280758
+      spriteID: 7f356363b0b3c3e4ab8639f2baf65603
+      internalID: 6301718139250434432
       vertices: []
       indices: 
       edges: []
