@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 337dc14b4c251b345bc534a6e8df01db
+guid: cbc3de93d8c073148bfa4e9b375fe7f7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5777153474034035348
-    second: Right Hit (42x42)_0
+      213: -5335270044437397966
+    second: Top Hit (42x42)_0
   - first:
-      213: 2131593325696180439
-    second: Right Hit (42x42)_1
+      213: 6330524061191845242
+    second: Top Hit (42x42)_1
   - first:
-      213: -143055266519111553
-    second: Right Hit (42x42)_2
+      213: 1314965101185929502
+    second: Top Hit (42x42)_2
   - first:
-      213: 5146612676036680158
-    second: Right Hit (42x42)_3
+      213: -8166746417374445508
+    second: Top Hit (42x42)_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -98,7 +98,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Right Hit (42x42)_0
+      name: Top Hit (42x42)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -112,14 +112,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3433dc8871453341a7e1c96f00d9dce
-      internalID: -5777153474034035348
+      spriteID: 9a73922fe7122bd4cb95958a5222a8b1
+      internalID: -5335270044437397966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Right Hit (42x42)_1
+      name: Top Hit (42x42)_1
       rect:
         serializedVersion: 2
         x: 42
@@ -133,67 +133,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3013c8019e7831469f7c4463f90fceb
-      internalID: 2131593325696180439
+      spriteID: e50f88ef3c346fa49b296ffce5cf7f12
+      internalID: 6330524061191845242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Right Hit (42x42)_2
+      name: Top Hit (42x42)_2
       rect:
-        serializedVersion: 2
-        x: 84
-        y: 0
-        width: 42
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 104695450395d5b4882905ddb027947a
-      internalID: -143055266519111553
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Right Hit (42x42)_3
-      rect:
-        serializedVersion: 2
-        x: 126
-        y: 0
-        width: 42
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9050ed9393e988243be46b6103b949b7
-      internalID: 5146612676036680158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
-    secondaryTextures: []
-  spritePackingTag: 
-  pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+        serializedVersion
