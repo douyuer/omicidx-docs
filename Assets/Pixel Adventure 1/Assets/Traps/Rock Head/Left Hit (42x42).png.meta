@@ -1,19 +1,20 @@
+
 fileFormatVersion: 2
-guid: e3e6b3d6c57dc7b488e7d1e8be902988
+guid: bb8f35504d0d42343b3cdb04faaa9d15
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4965478120403269316
-    second: Blink (42x42)_0
+      213: 1622322107330605865
+    second: Left Hit (42x42)_0
   - first:
-      213: 7853364175085887869
-    second: Blink (42x42)_1
+      213: -4448182012383196264
+    second: Left Hit (42x42)_1
   - first:
-      213: 3654695632555541323
-    second: Blink (42x42)_2
+      213: 3017925185602581589
+    second: Left Hit (42x42)_2
   - first:
-      213: -7771193783775295362
-    second: Blink (42x42)_3
+      213: 4165727229729027890
+    second: Left Hit (42x42)_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -98,7 +99,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Blink (42x42)_0
+      name: Left Hit (42x42)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -112,14 +113,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdfe87cc1cb1eea40a69a31db1419b78
-      internalID: 4965478120403269316
+      spriteID: 2bd0bb000cde8e341a0d5f85270ad05c
+      internalID: 1622322107330605865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blink (42x42)_1
+      name: Left Hit (42x42)_1
       rect:
         serializedVersion: 2
         x: 42
@@ -133,14 +134,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d6dc77d256a70747b63b07a09746d8a
-      internalID: 7853364175085887869
+      spriteID: 13260c6f980312849a0b9320229872dd
+      internalID: -4448182012383196264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blink (42x42)_2
+      name: Left Hit (42x42)_2
       rect:
         serializedVersion: 2
         x: 84
@@ -154,14 +155,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7645ad00e03ad894995e3d980b476fae
-      internalID: 3654695632555541323
+      spriteID: 6a5cec343d4d1384bb9cbf55e4e72ee1
+      internalID: 3017925185602581589
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Blink (42x42)_3
+      name: Left Hit (42x42)_3
       rect:
         serializedVersion: 2
         x: 126
@@ -175,8 +176,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11db1cff4606f72429aa6d21aa895dbb
-      internalID: -7771193783775295362
+      spriteID: e8281d18cd5d76142b5de471d85c231d
+      internalID: 4165727229729027890
       vertices: []
       indices: 
       edges: []
