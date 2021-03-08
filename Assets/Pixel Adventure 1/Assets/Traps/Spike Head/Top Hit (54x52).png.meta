@@ -1,19 +1,20 @@
+
 fileFormatVersion: 2
-guid: 680c4a3e214ba5b4d984cd56b1d49668
+guid: 8123182af98fb8147a7d6e6bf458ba4b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7889182698649827768
-    second: Left Hit (54x52)_0
+      213: -4239752841431299310
+    second: Top Hit (54x52)_0
   - first:
-      213: -4867785508303738327
-    second: Left Hit (54x52)_1
+      213: 5222327376163656147
+    second: Top Hit (54x52)_1
   - first:
-      213: -6190999649076277168
-    second: Left Hit (54x52)_2
+      213: 670804150163282626
+    second: Top Hit (54x52)_2
   - first:
-      213: 599716033573751369
-    second: Left Hit (54x52)_3
+      213: -4422153292065143677
+    second: Top Hit (54x52)_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -98,7 +99,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Left Hit (54x52)_0
+      name: Top Hit (54x52)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -112,14 +113,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 713c4c95f5fdb1e4c8d864eeb4426a6c
-      internalID: 7889182698649827768
+      spriteID: a3fc0b93616f60a44bb12447c4d1aff8
+      internalID: -4239752841431299310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Left Hit (54x52)_1
+      name: Top Hit (54x52)_1
       rect:
         serializedVersion: 2
         x: 54
@@ -133,14 +134,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 482eb7053d5cc834397d88873f24f0db
-      internalID: -4867785508303738327
+      spriteID: b3943b947596c0f4e825d9a4930d99ec
+      internalID: 5222327376163656147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Left Hit (54x52)_2
+      name: Top Hit (54x52)_2
       rect:
         serializedVersion: 2
         x: 108
@@ -154,14 +155,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d3118abd09eb4e4cb44ab632dffaf70
-      internalID: -6190999649076277168
+      spriteID: 5f3194b23779fd34aabced127a434ed8
+      internalID: 670804150163282626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Left Hit (54x52)_3
+      name: Top Hit (54x52)_3
       rect:
         serializedVersion: 2
         x: 162
@@ -175,8 +176,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c7f9f988f0a4ee419545ab581130755
-      internalID: 599716033573751369
+      spriteID: 931f5fe17097e1b4887c0d24cf6a6874
+      internalID: -4422153292065143677
       vertices: []
       indices: 
       edges: []
