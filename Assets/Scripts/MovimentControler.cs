@@ -185,4 +185,82 @@ public class MovimentControler : MonoBehaviour
         // Direção do pulo em X (-1 = esquerda, 1 = direita)
         float x_dir = sprite.flipX ? -1 : 1;
 
-        //Debug.Log(new Vector2(x_dir * Mathf.Cos(angle), M
+        //Debug.Log(new Vector2(x_dir * Mathf.Cos(angle), Mathf.Sin(angle)));
+
+        // Transforma o ângulo em um vetor com sin/cos,
+        // inverte em X se necessário,
+        // multiplica o vetor (de tamanho 1) pela força e aplica como Impulso
+        rigidbody.AddForce(new Vector2(x_dir * Mathf.Cos(angle), Mathf.Sin(angle)) * force, ForceMode2D.Impulse);
+        // Reduz a stamina com base no custo pra esse pulo (recebido como parâmetro na função)
+        stamina -= stamina_cost;
+
+        //marcar grounded como falso
+        grounded = false;
+    }
+
+    /* Reflect
+     * Chamado pelo WallCheck quando o player bate de lado numa parede */
+    public void Reflect()
+    {
+        // Inverte o sprite
+        // A velocidade do rigidbody quando essa função é chamada ainda é a
+        // velocidade antes da colisão. Então, se for maior ou igual a 0, o 
+        // player deveria virar pra esquerda.
+        sprite.flipX = rigidbody.velocity.x >= 0;
+
+        // Define a velocidade do objeto como zero (pensa nisso, o gato em algum frame
+        // no meio do movimento tá absolutamente parado)
+        rigidbody.velocity = Vector2.zero;
+
+        // Pula denovo na direção contrária (definida no sprite.flipX)
+        // O custo de stamina aqui é diferente do inicial
+        Jump(StaminaCost);
+    }
+
+    /* Ground
+     * Chamado pelo GroundCheck quando o player encosta no chão 
+     * Reseta os trackers e volta pro estágio 0*/
+    public void Ground()
+    {
+        angleTracker = 0;
+        forceTracker = maxForce;
+
+        stage = 0;
+    }
+
+    /* Desenha os Gizmos */
+    void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+
+        // Vetor de força do pulo
+        float angle = Mathf.Deg2Rad * angleTracker;
+        float force = forceTracker / 10.0f;
+        float x_dir = (sprite != null && sprite.flipX) ? -1 : 1;
+        Gizmos.DrawLine(this.transform.position, (Vector2)this.transform.position + new Vector2(x_dir * Mathf.Cos(angle) * force, Mathf.Sin(angle) * force));
+
+        // Informações textuais no player
+        UnityEditor.Handles.Label(transform.position + new Vector3(-0.5f, 1.0f, 0), "stage: " + stage.ToString() + "\nstamina: " + stamina.ToString());
+
+        //raycast do chão
+        Gizmos.color = Color.green;
+        SpriteRenderer spritea = GetComponent<SpriteRenderer>();
+        Vector2 raycast_from = (Vector2)this.transform.position + new Vector2(0, -spritea.bounds.size.y/2);
+        Vector2 raycast_to = raycast_from + new Vector2(0, - raycast_length);
+        Gizmos.DrawLine(raycast_from, raycast_to);
+        
+
+    }
+
+    /* Getters*/
+    public int getStage()
+    {
+        return stage;
+    }
+
+    public bool getGrounded()
+    {
+        return grounded;
+    }
+
+}
